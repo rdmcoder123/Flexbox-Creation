@@ -54,7 +54,7 @@ Check out the live demo of Flexbox Labs: [Demo](https://flexboxlabs.netlify.app/
 #### 1. Clone the repository
 
 ```shell
-git clone https://github.com/prazzon/flexbox-labs.git
+git clone https://github.com/rdmcoder123/flexbox-labs.git
 ```
 
 #### 2. Navigate to the app directory
@@ -92,8 +92,6 @@ Flexbox Labs is licensed under the [MIT License](LICENSE).
 
 ## Feedback
 
-If you have any feedback, suggestions, or issues, please [open an issue](https://github.com/prazzon/flexbox-labs/issues).
-Your input is appreciated!
 
 ## Acknowledgements
 
